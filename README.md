@@ -12,6 +12,12 @@ Official Node.js SDK for the [VAGO Cloud](https://www.vagocloud.com) API.
 npm install vago-node-sdk
 ```
 
+O desde el repo:
+
+```bash
+npm install r-adrianzen/vago-node-sdk
+```
+
 ## Quick start
 
 ```typescript
