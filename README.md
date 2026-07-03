@@ -1,5 +1,9 @@
 # VAGO Cloud Node.js SDK
 
+![CI](https://github.com/r-adrianzen/vago-node-sdk/actions/workflows/ci.yml/badge.svg)
+![npm](https://img.shields.io/npm/v/vago-node-sdk)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 Official Node.js SDK for the [VAGO Cloud](https://www.vagocloud.com) API.
 
 ## Installation
